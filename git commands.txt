@@ -1,0 +1,14 @@
+
+
+how to set github account
+
+git config --global user.name "username"
+git config --global user.email "email"
+
+how to check connected account
+
+git config --global user.name
+
+
+how to initialize repo from terminal
+
